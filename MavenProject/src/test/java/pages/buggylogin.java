@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class buggylogin {
 
 	/*
-	 * All locators for buggy car registration page are maintained 
+	 * All locators for buggy car registration page are maintained updated
 	 */
 		
 	WebDriver driver =null;
